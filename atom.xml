@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EricYin32.github.io</id>
     <title>Eric&apos;s Blog</title>
-    <updated>2020-09-20T13:15:32.755Z</updated>
+    <updated>2020-09-28T13:05:50.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EricYin32.github.io"/>
     <link rel="self" href="https://EricYin32.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://EricYin32.github.io/images/avatar.png</logo>
     <icon>https://EricYin32.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Eric&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[STEAM 白嫖（1）]]></title>
+        <id>https://EricYin32.github.io/post/steam-bai-piao-1/</id>
+        <link href="https://EricYin32.github.io/post/steam-bai-piao-1/">
+        </link>
+        <updated>2020-09-21T16:52:59.000Z</updated>
+        <content type="html"><![CDATA[<p>steam中除了最基本的购买方法，还有代码购买法，代码如下：<p>steam://install/92《CodenameGordon》<br>
+steam://install/480《Spacewar》<br>
+steam://install/420740《恶果》<br>
+steam://install/311730《死或生5》本体<br>
+steam://install/531157《死或生5》DLC<br>
+steam://install/838380《死或生6》本体<br>
+steam://install/921590《最终幻想 纷争》本体<br>
+steam://install/1103750《最终幻想 纷争》DLC<br>
+steam://install/671210《最终幻想》试玩版<br>
+steam://install/803800《WIDECROSS》<br>
+steam://install/1097120《呐喊》<br>
+steam://install/1175970《胭脂红》<br>
+steam://instaII/442120《PinballFX3》<br>
+steam://install/566190《TheSearch》<br>
+steam://install/1161770《魔物娘农场》<br>
+steam://install/943700《魔物娘岛屿》<br>
+steam://install/258160《riseOfincamates》<br>
+steam://install/287630《议会》<br>
+steam://instaII/274980《lnfluent》</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://EricYin32.github.io/post/hello-gridea/</id>
